@@ -22,7 +22,7 @@ const Navbars = () => {
     return (
         <Navbar bg="dark" variant="dark">
         <Container>
-            <img className="Logo" src="https://e7.pngegg.com/pngimages/809/777/png-clipart-car-revathy-auto-parts-ford-motor-company-spare-part-advance-auto-parts-car-car-vehicle.png" alt="logo" />
+            <img className="logo" src="https://e7.pngegg.com/pngimages/809/777/png-clipart-car-revathy-auto-parts-ford-motor-company-spare-part-advance-auto-parts-car-car-vehicle.png" alt="logo" />
         <Navbar.Brand href="#home">Navbar</Navbar.Brand>
         <Nav className="me-auto">
           <Link to='/'> <Nav.Link href="#home">Home</Nav.Link> </Link>
